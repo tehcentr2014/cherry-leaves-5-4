@@ -63,7 +63,7 @@ To save time in this process, the IT team suggested an ML system that detects in
 
 ## Unfixed Bugs
 
-- The application was deployed on [Heroku] (https://cherry-leaves-5-4-67299393f5ab.herokuapp.com/) with limited functionality, because the Heroku platform has a slug limit of 500 MB, so the application was also published on Streamlit with more functionality - https://cherry-leaves-4.streamlit.app/. 
+- The application was deployed on [Heroku] (https://cherry-leaves-5-4-67299393f5ab.herokuapp.com/) with limited functionality, because the Heroku platform has a slug limit of 500 MB, so the application was also published on Streamlit with full functionality - https://cherry-leaves-t3-fp7zxkrtcvo8rjsswjcpbz.streamlit.app/. 
 
 ## Deployment
 
@@ -106,12 +106,12 @@ To save time in this process, the IT team suggested an ML system that detects in
 
 ### Media
 
-- The photos used on the home and sign-up page are from This Open-Source site.
-- The images used for the gallery page were taken from this other open-source site.
+- The photos dataset is sourced from [Kaggle](https://www.kaggle.com/codeinstitute/cherry-leaves).
+
 
 ## Acknowledgements (optional)
 
-- Thank the Code Institute who provided support throughout this project.
+- Thanks the Code Institute who provided support throughout this project.
 
 ## How to use this repo
 
